@@ -1,0 +1,11 @@
+C:\Users\1\SkyDrive\project\6970\bin\x64\Release\DL 6940.exe
+C:\Users\1\SkyDrive\project\6970\bin\x64\Release\DL 6940.pdb
+C:\Users\1\SkyDrive\project\6970\bin\x64\Release\DL6940CSharp.dll
+C:\Users\1\SkyDrive\project\6970\obj\x64\Release\DL 6940.csprojResolveAssemblyReference.cache
+C:\Users\1\SkyDrive\project\6970\obj\x64\Release\DL6940demomain.ConfigForm.resources
+C:\Users\1\SkyDrive\project\6970\obj\x64\Release\DL6940demomain.Form1.resources
+C:\Users\1\SkyDrive\project\6970\obj\x64\Release\DL6940demomain.LoginForm.resources
+C:\Users\1\SkyDrive\project\6970\obj\x64\Release\DL6940demomain.Properties.Resources.resources
+C:\Users\1\SkyDrive\project\6970\obj\x64\Release\DL 6940.csproj.GenerateResource.Cache
+C:\Users\1\SkyDrive\project\6970\obj\x64\Release\DL 6940.exe
+C:\Users\1\SkyDrive\project\6970\obj\x64\Release\DL 6940.pdb

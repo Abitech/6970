@@ -1,0 +1,13 @@
+C:\Users\Андрей\Documents\!work\DL 6970\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Андрей\Documents\!work\DL 6970\obj\Debug\DL6940demomain.ConfigForm.resources
+C:\Users\Андрей\Documents\!work\DL 6970\obj\Debug\DL6940demomain.Form1.resources
+C:\Users\Андрей\Documents\!work\DL 6970\obj\Debug\DL6940demomain.LoginForm.resources
+C:\Users\Андрей\Documents\!work\DL 6970\obj\Debug\DL6940demomain.Properties.Resources.resources
+C:\Users\Андрей\Documents\!work\DL 6970\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Андрей\Documents\!work\DL 6970\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Андрей\Documents\!work\DL 6970\bin\Debug\DL 6940.exe
+C:\Users\Андрей\Documents\!work\DL 6970\bin\Debug\DL 6940.pdb
+C:\Users\Андрей\Documents\!work\DL 6970\obj\Debug\DL 6940.exe
+C:\Users\Андрей\Documents\!work\DL 6970\obj\Debug\DL 6940.pdb
+C:\Users\1\SkyDrive\project\6970\obj\Debug\DL 6940.exe
+C:\Users\1\SkyDrive\project\6970\obj\Debug\DL 6940.pdb
